@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Jon Snow",
+    "house": "House Targaryen",
+    "tag": "Fire and Blood",
+    "houseBg": "rgba(110, 123, 139, 0.25)",
+    "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/06/game-of-thrones-jon-snow.jpg?w=1600&h=900&fit=crop",
+    "banner": "https://awoiaf.westeros.org/images/thumb/1/1e/House_Targaryen.svg/250px-House_Targaryen.svg.png",
+    "stats": {
+      "age": "24 years",
+      "influence": "High",
+      "strength": "900"
+    },
+    "difficulty": 3,
+    "iq": 3 
+  },
+  {
+    "id": 2,
+    "name": "Tyrion Lannister",
+    "house": "House Lannister",
+    "tag": "Hear Me Roar",
+    "houseBg": "rgba(143, 0, 0, 0.25)",
+    "image": "https://i0.wp.com/biffbampop.com/wp-content/uploads/2014/04/tyrion-lannister-pic1-e1396924672723.jpg?resize=630%2C666&ssl=1",
+    "banner": "https://awoiaf.westeros.org/images/thumb/d/d5/House_Lannister.svg/250px-House_Lannister.svg.png",
+    "stats": {
+      "age": "38 years",
+      "influence": "Very High",
+      "strength": "200"
+    },
+    "difficulty": 0,
+    "iq": 4   
+  },
+  {
+    "id": 3,
+    "name": "Oberyn Martell",
+    "house": "House Martell",
+    "tag": "Unbowed, Unbent, Unbroken",
+    "houseBg": "rgba(144, 54, 26, 0.25)",
+    "image": "https://www.denofgeek.com/wp-content/uploads/2024/08/Game-of-Thrones-Pedro-Pascal-as-Oberyn-Martell.jpg?fit=1200%2C675",
+    "banner": "https://awoiaf.westeros.org/images/thumb/6/60/House_Martell.svg/250px-House_Martell.svg.png",
+    "stats": {
+      "age": "35 years",
+      "influence": "High",
+      "strength": "700"
+    },
+    "difficulty": 3,
+    "iq": 3 
+  },
+  {
+    "id": 4,
+    "name": "Robert Baratheon",
+    "house": "House Baratheon",
+    "tag": "Ours is the Fury",
+    "houseBg": "rgba(151, 117, 35, 0.25)",
+    "image": "https://sm.ign.com/t/ign_pt/screenshot/default/blob_rhzm.1200.jpg",
+    "banner": "https://awoiaf.westeros.org/images/thumb/2/2d/House_Baratheon.svg/250px-House_Baratheon.svg.png",
+    "stats": {
+      "age": "40 years",
+      "influence": "Medium",
+      "strength": "1000"
+    },
+    "difficulty": 3,
+    "iq": 3 
+  },
+  {
+    "id": 5,
+    "name": "Arya Stark",
+    "house": "House Stark",
+    "tag": "Winter is Coming",
+    "houseBg": "rgba(110, 123, 139, 0.25)",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/02/Arya-Stark-na-setima-temporada-de-Game-of-Thrones.png",
+    "banner": "https://awoiaf.westeros.org/images/thumb/7/7e/House_Stark.svg/250px-House_Stark.svg.png",
+    "stats": {
+      "age": "18 years",
+      "influence": "High",
+      "strength": "850"
+    },
+    "difficulty": 3,
+    "iq": 3 
+  },
+  {
+    "id": 6,
+    "name": "Daenerys Targaryen",
+    "house": "House Targaryen",
+    "tag": "Fire and Blood",
+    "houseBg": "rgba(153, 51, 51, 0.25)",
+    "image": "https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/16191863/cq5dam.web.1200.675.jpg?quality=90&strip=all&crop=27.75,0,56.25,100",
+    "banner": "https://awoiaf.westeros.org/images/thumb/1/1e/House_Targaryen.svg/250px-House_Targaryen.svg.png",
+    "stats": {
+      "age": "27 years",
+      "influence": "Very High",
+      "strength": "820"
+    },
+    "difficulty": 0,
+    "iq": 3
+  }
+]
