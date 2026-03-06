@@ -136,7 +136,7 @@ Error generating stack: `+a.message+`
   body {
     margin: 0;
     padding: 0;
-    font-family: 'MedievalSharp', 'Cinzel', 'Georgia', serif; /* Средневековый каллиграфический шрифт */
+    font-family: 'MedievalSharp', 'Cinzel', 'Georgia', serif; 
     background-color: var(--bg-color);
     color: var(--text-main);
     -webkit-font-smoothing: antialiased;
@@ -148,7 +148,6 @@ Error generating stack: `+a.message+`
     margin: 0;
   }
 
-  /* Твое задание пункт 4: Визуальное выделение для сложности 3 */
   .high-difficulty {
     border: 2px solid var(--accent-red);
     box-shadow: 0 0 15px rgba(139, 0, 0, 0.6);
